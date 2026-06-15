@@ -14,10 +14,12 @@ A collection of educational material on **cybersecurity**, designed for students
 
 ```
 cybersecurity/
-├── Claude_Mythos.pdf
-├── Nmap_Guida_Teorico_Pratica.pdf
-├── Nmap_Manuale_Completo.pdf
-├── OSINT_list.pdf
+├── pdf/
+│   ├── Claude_Mythos.pdf
+│   ├── Nmap_Guida_Teorico_Pratica.pdf
+│   ├── Nmap_Manuale_Completo.pdf
+│   ├── OSINT_Compundium.pdf
+│   └── OSINT_list.pdf
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
@@ -29,10 +31,11 @@ cybersecurity/
 
 | File | Description |
 |------|-------------|
-| `Claude_Mythos.pdf` | Overview of common cybersecurity myths and misconceptions |
-| `Nmap_Guida_Teorico_Pratica.pdf` | Nmap theoretical and practical guide |
-| `Nmap_Manuale_Completo.pdf` | Complete Nmap reference manual |
-| `OSINT_list.pdf` | Curated list of OSINT tools and resources |
+| [`pdf/Claude_Mythos.pdf`](pdf/Claude_Mythos.pdf) | Overview of common cybersecurity myths and misconceptions |
+| [`pdf/Nmap_Guida_Teorico_Pratica.pdf`](pdf/Nmap_Guida_Teorico_Pratica.pdf) | Nmap theoretical and practical guide |
+| [`pdf/Nmap_Manuale_Completo.pdf`](pdf/Nmap_Manuale_Completo.pdf) | Complete Nmap reference manual |
+| [`pdf/OSINT_Compundium.pdf`](pdf/OSINT_Compundium.pdf) | Compendium of OSINT techniques and methodologies |
+| [`pdf/OSINT_list.pdf`](pdf/OSINT_list.pdf) | Curated list of OSINT tools and resources |
 
 ---
 
