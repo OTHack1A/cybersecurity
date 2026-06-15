@@ -5,6 +5,14 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.0] — 2026-06-15
+
+### Changed
+- Moved all PDF documents into the `pdf/` subfolder for better organisation
+- Updated `README.md` to reflect the new folder structure and added missing `OSINT_Compundium.pdf` entry
+
+---
+
 ## [1.0.0] — 2026-06-14
 
 ### Added
